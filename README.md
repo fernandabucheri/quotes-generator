@@ -1,16 +1,18 @@
 # Quotes Generator Client
-Random quote generator.
+Projeto desenvolvido durante o curso "Introdução aos React Hooks" (disponível na plataforma dio.me) ministrado pelo prof. Celso Henrique, que visa criar um gerador para exibir frases (citações) aleatórias.
+
+As frases estão [no servidor](https://github.com/fernandabucheri/quotes-server).
 
 ![screenshot](screenshot.png?raw=true "screenshot")
 
-# Install
-Clone this repository and install it dependencies with this command:
+# Instalar
+Clone o repositório e instale as dependências com:
 ```sh
 $ npm install
 ```
 
-# Running
-Run the application with `npm start` command, it will start the app on [localhost:3000](http://localhost:3000):
+# Rodar
+Rode a aplicação com o comando `npm start`, isso vai inicializar o app em [localhost:3000](http://localhost:3000):
 ```sh
 $ npm start
 ```
